@@ -6,15 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 1 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (2)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (3)
+- [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ### implementation
 
@@ -22,6 +31,19 @@
 |---|---------|------------|----------|
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ---
 

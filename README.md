@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 5 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (4)
+- [math](#math) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
 
@@ -33,6 +34,12 @@
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 21](https://github.com/SamarthDhage07/https-github.com-SamarthDhage07-Codeforces/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
 
 ### sortings
 
